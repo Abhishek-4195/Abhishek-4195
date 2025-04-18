@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishek Kumar
 
-<!--
-**Abhishek-4195/Abhishek-4195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Data Analytics](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
-Here are some ideas to get you started:
+🎯 Data Analyst | SQL • Python • Power BI • Tableau  
+📊 Turning raw data into actionable insights | Google Certified  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 About Me
+I'm a passionate Data Analyst with 2+ years of experience in transforming complex datasets into meaningful insights. I enjoy building interactive dashboards, automating reports, and solving real-world problems through data.  
+I'm always eager to learn and explore new tools and techniques that push the boundaries of data-driven decision-making.
+
+---
+
+## 📜 Certifications
+- 🎓 **Google Advanced Data Analytics** 
+- ☁️ **Google Cloud Data Analytics**  
+- 📈 **Google Project Management** 
+- 🤖 **Google AI Essentials** 
+
+---
+
+## 📫 Let’s Connect
+- Email: [aman.abhishek97@gmail.com](mailto:aman.abhishek97@gmail.com)  
+- LinkedIn: [linkedin.com/in/abhishekk97](https://www.linkedin.com/in/abhishekk97)  
+- GitHub: [github.com/Abhishek-4195](https://github.com/Abhishek-4195)
+
+---
+
+> _“Data is a tool for enhancing intuition.”_ – Hilary Mason
